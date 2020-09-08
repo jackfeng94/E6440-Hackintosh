@@ -1,5 +1,7 @@
 # E6640-Hackintosh
-Support: Mojave + Catalina
+
+SupportOS: Mojave + Catalina<br/>
+Bootloader: Opencore 0.6.1 + GUI
 
 <b>My laptop spec. </b> <br/>
 OS: macOS Catalina 10.15.6 19G2021 x86_64 <br/>
