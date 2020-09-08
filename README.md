@@ -1,4 +1,4 @@
-# E6640-Hackintosh
+# E6440-Hackintosh
 
 SupportOS: Mojave + Catalina<br/>
 Bootloader: Opencore 0.6.1 + GUI
